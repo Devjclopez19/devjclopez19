@@ -1,22 +1,9 @@
-###
-
-  <div align="center">
+<div align="center">
     <img height="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  />
   </div>
-  <div align="center">
-    <img height="200" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif"  />
-  </div>
-  <div align="center">
-    <img height="200" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"  />
-  </div>
-  
   ###
   
-  <h1 align="center">Hola <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="" height="30" >, Soy Josimar</h1>
-
-  ###
-  
-  <h2>Desarrollador Web Full Stack</h2>
+  <h2 align="center">Hola <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="" height="25" >, mi nombre es Josimar y soy Desarrollador Web Full Stack</h2>
   
   ###
 
@@ -83,7 +70,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Devjclopez19&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Devjclopez19&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=default&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Devjclopez19&locale=en&hide_title=false&layout=compact&card_width=280&langs_count=6&theme=default&hide_border=false&order=2" height="200" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Devjclopez19&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
 
