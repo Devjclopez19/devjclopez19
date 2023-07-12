@@ -41,7 +41,7 @@
   
   ###
     
-  [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=react,redux,nodejs,mongodb,js,html,css,sass,botstrap,java,spring,postgress,mysql,php&theme=light)](https://skillicons.dev)
 
   ###
                
