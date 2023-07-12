@@ -1,18 +1,22 @@
- ###
+###
 
   <div align="center">
-    <img height="200" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+    <img height="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  />
+  </div>
+  <div align="center">
+    <img height="200" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif"  />
+  </div>
+  <div align="center">
+    <img height="200" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"  />
   </div>
   
   ###
   
-  <h1 align="center">Hola <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="" height="30" >, soy Josimar</h1>
+  <h1 align="center">Hola <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="" height="30" >, Soy Josimar</h1>
 
   ###
   
   <h2>Desarrollador Web Full Stack</h2>
-  ----------------------------
-
   
   ###
 
