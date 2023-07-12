@@ -1,19 +1,18 @@
-<div align="center">
+ ###
+
+  <div align="center">
     <img height="200" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
   </div>
   
   ###
   
-  <h1 align="center">Hola [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) soy Josimar</h1>
+  <h1 align="center">Hola <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="" height="30" >, soy Josimar</h1>
 
   ###
-
-  ===============================================================================================================================
   
-  Desarrollador Web Full Stack
+  <h2>Desarrollador Web Full Stack</h2>
   ----------------------------
 
-  ###
   
   ###
 
@@ -29,20 +28,17 @@
   
   
   *   🌍  Soy de Perú
-  *   🖥️  Revisa mi portafolio en [miportafolio](https://jclopez.github.io)
-  *   ✉️  Contactame [dev.jclopez@gmail.com](mailto:dev.jclopez@gmail.com)
-  *     Contactame [dev.jclopez@gmail.com](https://www.linkedin.com/in/jcastrolopez/)
+  *   🖥️  Revisa mi [portafolio](https://jclopez.github.io)
+  *   ✉️  Enviame un mensaje a [dev.jclopez@gmail.com](mailto:dev.jclopez@gmail.com)
+  *   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="16" alt="linkedin logo"  /> Revisa mi [LinkedIn](https://www.linkedin.com/in/jcastrolopez/)
   *   🧠  Aprendiendo Next Js
   *   🤝  Disponible para colaborar o en busca de nuevas oportunidades
   
   ### 
   
+  
   <h3 align="left">💻 Tech Stack:</h3>
   
-  ###
-    
-  [![My Skills](https://skillicons.dev/icons?i=react,redux,nodejs,mongodb,js,html,css,sass,botstrap,java,spring,postgress,mysql,php&theme=light)](https://skillicons.dev)
-
   ###
                
   <div align="left">
@@ -81,10 +77,10 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Devjclopez19&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Devjclopez19&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=default&hide_border=false&order=2" height="200" alt="languages graph"  /><br>
-  <img src="https://streak-stats.demolab.com?user=Devjclopez19&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Devjclopez19&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=default&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Devjclopez19&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
 
 ###
