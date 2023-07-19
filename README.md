@@ -10,6 +10,7 @@
   ###
 
 Soy ingeniero informático de profesión, mi pasión es transformar mi creatividad y conocimiento en soluciones de software, me especializo en desarrollar aplicaciones web desde cero convirtiéndolas en experiencias         funcionales y modernas. Tengo experiencia desarrollando portales web y sistemas de gestión administrativa en empresas privadas y entidades gubernamentales.
+
 Aprendo con facilidad y me mantengo actualizado con respecto a las nuevas herramientas tecnológicas usadas en el desarrollo, me adapto rápido al ritmo de trabajo de los grupos de desarrollo, soy puntual, motivado y responsable con las labores encomendadas. Soy un profesional que asume todos los retos y metas de la organización con buen manejo de las relaciones interpersonales y en condiciones de alta presión. 
 
   ###
